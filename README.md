@@ -65,7 +65,7 @@ This project presents a **dynamic** and **AI-driven** **Sales Dashboard** built 
 ---
 
 ## 📌 Connect with Me 🤝
-🔗 **GitHub Repo**: 
+🔗 **GitHub Repo**: https://github.com/PrachiKurhatkar/Amazon-Sales-2024
 🔗 **LinkedIn**: https://www.linkedin.com/in/prachi-kurhatkar-25a673285?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be3GUJfYYSIKGc3%2B%2BRbMeyA%3D%3D
 
 ---
